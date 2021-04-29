@@ -1,4 +1,4 @@
-# BalanceADAs
+# BalanceADAs 💲
 
   ### Esta plicación permite llevar un registro de gastos y ganancias y hacer un balance de los mismos. 
 
@@ -40,7 +40,7 @@
 ## Esta es la vista final del proyecto:
 <br>
  
-![images](img\screencapture-file-C-Users-edima-Desktop-BalanceADAs-index-html-2021-04-29-15_22_21.png)
+![images](https://github.com/edimar-m/balanceADAs/blob/master/img/screencapture-file-C-Users-edima-Desktop-BalanceADAs-index-html-2021-04-29-15_22_21.png)
 
 ***
 ## Agradecimientos🙌
